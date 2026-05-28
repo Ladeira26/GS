@@ -1,22 +1,32 @@
 Sistema de Monitoramento Espacial
-Projeto desenvolvido em Python para análise de eventos ambientais detectados por satélites.
-
-Como executar
+Como executar o projeto
 Abra o terminal na pasta do projeto.
 
 Execute o arquivo Python:
 
-python 26.1.GS.Guilherme.py
+python 26.1.GS.NOME.py
 
 
 Funcionalidades
 Cadastro de eventos ambientais
-Cálculo de área total afetada
-Média de intensidade
-Região com maior número de ocorrências
-Densidade média
-Identificação do evento mais crítico
+Análise de dados
 Relatório final
+
+Resumo do Funcionamento do Código
+O sistema foi desenvolvido em Python para simular o monitoramento ambiental realizado por satélites.
+
+O programa solicita ao usuário o cadastro de eventos ambientais, armazenando informações como tipo do evento, localização, área afetada, intensidade e número de ocorrências utilizando listas.
+
+Após o cadastro dos dados, o sistema realiza análises automáticas, incluindo:
+
+Total de eventos registrados
+Soma das áreas afetadas
+Média das intensidades
+Região com maior número de ocorrências
+Densidade média de ocorrências
+Evento mais crítico
+
+Ao final, o programa gera um relatório organizado contendo todas as informações processadas.
 
 Tecnologias utilizadas
 Python
