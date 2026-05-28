@@ -132,7 +132,7 @@ for intensidade in intensidades:
         eventos_acima_media += 1
 
 #===================================================================
-#RELATÓRIO DE ANÁLISE
+#PARTE 4 (RELATÓRIO DE ANÁLISE)
 #===================================================================
 print("\n" + "=" * 40)
 print(f"{titulo} RELATÓRIO DE ANÁLISE{reset}")
